@@ -47,6 +47,10 @@ Here's an explanation of the functions used in the `main.py` script:
 
 - `check_input(guess, board)`: Compares the player's guess with the correct combination and provides feedback.
 
+
+## Pytest
+Tests can be run through command line `pytest test_mvp.py`
+
 ## Enjoy playing Mastermind!
 
 Have fun playing the Mastermind game and try to crack the code within the limited number of attempts. Good luck!
